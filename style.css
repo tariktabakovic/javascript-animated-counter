@@ -52,3 +52,8 @@ header h1 {
     color: lightskyblue;
     margin-bottom: 5px
 }
+
+.counters .counter {
+    font-size: 45px;
+    margin: 10px 0
+}
